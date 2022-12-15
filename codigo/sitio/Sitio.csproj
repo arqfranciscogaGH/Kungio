@@ -824,6 +824,8 @@
     <Compile Include="Controllers\BuscarController.cs" />
     <Compile Include="Controllers\ClienteController.cs" />
     <Compile Include="Controllers\ClientesController.cs" />
+    <Compile Include="Controllers\ConsultarEstadisticasController.cs" />
+    <Compile Include="Controllers\ConsultarNegociosController.cs" />
     <Compile Include="Controllers\ConsultarSociosController.cs" />
     <Compile Include="Controllers\CuentaUsuariosController.cs" />
     <Compile Include="Controllers\FTAvanzarActividadController.cs" />
